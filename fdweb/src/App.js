@@ -83,7 +83,7 @@ class App extends Component {
   }
 
   onButtonSubmit = () => {
-    const PAT = '1d48477dbf3b4e2d80e55145b9561a2e';
+    const PAT = '/*your API key*?';
     const USER_ID = 'clarifai';
     const APP_ID = 'main';
     const MODEL_ID = 'face-detection';
